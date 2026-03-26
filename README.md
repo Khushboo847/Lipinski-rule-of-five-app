@@ -6,7 +6,7 @@ This application calculates key molecular descriptors and determines whether a c
 
 ---
 
-## 🔬 What is Lipinski's Rule of Five?
+##  What is Lipinski's Rule of Five?
 
 Lipinski's Rule of Five is a rule of thumb used to evaluate whether a chemical compound with certain pharmacological or biological activity has properties that would make it a likely orally active drug in humans.
 
@@ -19,7 +19,7 @@ A compound is more likely to be drug-like if:
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Accepts SMILES input
 - Calculates:
@@ -33,7 +33,7 @@ A compound is more likely to be drug-like if:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - Streamlit
@@ -42,4 +42,7 @@ A compound is more likely to be drug-like if:
 
 ---
 
-## 📂 Project Structure
+## Deployment
+The application is deployed using GitHub and Streamlit Community Cloud.
+Deployment Link:[Lipinski-rule-of-five-app](https://khushboo847-lipinski-rule-of-five-app-main-mwlxbv.streamlit.app/)
+
