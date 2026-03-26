@@ -44,5 +44,5 @@ A compound is more likely to be drug-like if:
 
 ## Deployment
 The application is deployed using GitHub and Streamlit Community Cloud.
-Deployment Link:[Lipinski-rule-of-five-app](https://khushboo847-lipinski-rule-of-five-app-main-mwlxbv.streamlit.app/)
+Deployment Link: [Lipinski-rule-of-five-app](https://khushboo847-lipinski-rule-of-five-app-main-mwlxbv.streamlit.app/)
 
